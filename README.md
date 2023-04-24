@@ -2,10 +2,12 @@
 
 > Proyecto Final para el curso de React (Coderhouse 2023 - Comisión 39625). El proyecto es un E-Commerce utilizando React y Firebase.
 
-## Dependecias
+## Instalar Dependencias e Instalar Aplicación
 
 - Use `npm install` in order to install necessary dependencies.
 - Use `npm start ` in order to start application.
+
+## Dependencias 
 
 - [x]  MUI
 - [x]  Firebase
