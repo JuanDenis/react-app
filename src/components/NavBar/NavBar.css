@@ -1,0 +1,38 @@
+/* Fuente */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.container {
+    background-color: #212529;
+    padding: 25px;
+    font-family: Poppins;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav_name a{
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.nav_links {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-left: 56.25rem;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.CartIcon {
+    color: #d33e43;
+}

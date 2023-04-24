@@ -1,0 +1,40 @@
+/* Fuente */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.Card {
+    max-width: 400px;
+    margin: 20px;
+    text-align: center;
+}
+
+.Card button {
+    font-size: 16px;
+    color: #fff;
+    padding: 15px;
+    border: 0;
+    cursor: pointer;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background: #D33E43;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.Title {
+    font-size: 30px;
+    font-weight: 400;
+    font-family: system-ui, sans-serif;
+}
+.Stock {
+    color: #d33e43;
+}
+
+.Price {
+    font-weight: bold;
+    font-size: 17px;
+    font-family: Poppins, sans-serif;
+}
+
+.item-link{
+    text-decoration: none;
+}

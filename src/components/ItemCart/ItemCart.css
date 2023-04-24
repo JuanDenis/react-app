@@ -1,0 +1,36 @@
+/* Fuente */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.carrito-producto{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e2e2e2;
+    padding-right: 1.5rem;
+    border-radius: 1rem;
+    margin: 10px;
+    width: 80rem;
+    font-family: system-ui, sans-serif;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.carrito-producto-imagen{
+    width: 4rem;
+    border-radius: 1rem;
+}
+.carrito-producto-cantidad{
+    text-align: center;
+}
+.carrito-producto-titulo{
+    text-align: center;
+}
+.textoProducto{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 15px;
+}
+.eliminarProducto{
+    border: 0;
+    background-color: #e2e2e2;
+    color: #d33e43;
+}
