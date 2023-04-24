@@ -17,6 +17,10 @@
 
 ![Estructura](https://res.cloudinary.com/vaerdi/image/upload/v1682331432/Screenshot_2_uugzuz.png)
 
+## Preview
+
+![Preview](https://res.cloudinary.com/vaerdi/image/upload/v1682334907/preview_tzy13j.gif)
+
 
 
 
