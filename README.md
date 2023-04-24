@@ -4,12 +4,12 @@
 
 ## Dependecias
 
+- Use `npm install` in order to install necessary dependencies.
+- Use `npm start ` in order to start application.
+
 - [x]  MUI
 - [x]  Firebase
 - [x]  React Router Dom
-
-- Use `npm install` in order to install necessary dependencies.
-- Use `npm start ` in order to start application.
 
 ## Estructura
 
